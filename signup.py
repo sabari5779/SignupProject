@@ -1,3 +1,4 @@
+# Signup functionality
 def signup(username, password):
     if not username:
         return "Username is required"
